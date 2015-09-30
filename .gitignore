@@ -19,6 +19,9 @@
 !/log/.keep
 /tmp
 
+# Ignore uploaded test images.
+/public/uploads
+
 # Created by https://www.gitignore.io/api/bun,linux,sublimetext,ruby
 
 #!! ERROR: bun is undefined. Use list command to see defined gitignore types !!#
